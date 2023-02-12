@@ -1,6 +1,6 @@
 # My Portfolio Site
 
-https://github.com/Vickyaryan33/my_portfolio
+https://vickyaryan33.github.io/my_portfolio/
 
 I have created a portfolio to showcase my skills and projects. To achieve this, I implemented the following - 
 
